@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="bg-black py-16 border-t border-zinc-900">
+    <footer className="bg-black pt-10 border-t border-zinc-900">
       <div className="max-w-7xl mx-auto px-6">
         <div className="flex flex-col md:flex-row justify-between gap-12">
           <div>
@@ -42,7 +42,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="mt-20 pt-8 border-t border-zinc-900 text-xs text-zinc-500 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div className="mt-10 py-6 border-t border-zinc-900 text-xs text-zinc-500 flex flex-col md:flex-row justify-between items-center gap-4">
           <p>© 2026 PeriyaFlavours • Made with love for Tamil Nadu food</p>
           <div className="flex gap-6">
             <span>Privacy</span>
