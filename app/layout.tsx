@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   title: 'PeriyaFlavours • Tamil Nadu\'s Finest',
   description: 'Discover the best restaurants and authentic Tamil Nadu dishes in Periyakulam',
   icons: {
-    icon: '/favicon.ico',
+    icon: "/biryani.png",
   },
 };
 
